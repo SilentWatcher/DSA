@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Friendly Compile & Run",
+      "type": "shell",
+      "command": "./run_friendly.sh",
+      "args": [
+        "${file}"  // 👈 This passes the current file you’re editing
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "options": {
+        "cwd": "${workspaceFolder}/demo"
+      },
+      "problemMatcher": [],
+      "windows": {
+        "command": "bash",
+        "args": ["-c", "./run_friendly.sh '${file}'"]
+      }
+    }
+  ]
+}
