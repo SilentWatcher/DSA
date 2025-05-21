@@ -1,4 +1,4 @@
-🚀 Running: /mnt/a/PaidCourse/DSA C++/21daySprint/cho-co/NumerianDataLedger.cpp
+🚀 Running: /mnt/a/PaidCourse/DSA C++/21daySprint/cho-co/02NUmerianGreetings/numerianGreetings.cpp
 
 ✅ Success: Code compiled and ran without any issues.
 👉 Check output.txt for output.
