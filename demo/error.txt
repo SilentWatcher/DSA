@@ -1,3 +1,4 @@
-🚀 Running: /mnt/a/PaidCourse/DSA C++/21daySprint/cho-co/agediff/addNum.cpp
+🚀 Running: /mnt/a/PaidCourse/DSA C++/21daySprint/demo/okay.cpp
 
-🔥 Runtime Error: Your program crashed during execution.
+✅ Success: Code compiled and ran without any issues.
+👉 Check output.txt for output.
