@@ -1,4 +1,4 @@
-🚀 Running: /mnt/a/PaidCourse/DSA C++/21daySprint/demo/okay.cpp
+🚀 Running: /mnt/a/PaidCourse/DSA C++/21daySprint/02conditional/NUmber_divisibleby_3_5.cpp
 
 ✅ Success: Code compiled and ran without any issues.
 👉 Check output.txt for output.
